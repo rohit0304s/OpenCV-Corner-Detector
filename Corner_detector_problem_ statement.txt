@@ -1,0 +1,7 @@
+Create an app which will detect sharp corners of objects in the given image and also determine their movability score.
+
+For eg: If a Sharp edge of a table is detected in the image, it should highlight the corner and predict its movability score by determining its relative area in the frame.
+
+Knowledge required: Basic
+Toughness Level: Medium
+Possible modularity: Edge Detection, Size prediction
